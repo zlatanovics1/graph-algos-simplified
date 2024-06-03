@@ -15,4 +15,7 @@ This C program defines a graph and implements several algorithms to manipulate a
 ## NOTE
 
 **All algorithms use adjacency list. Adjust that to your needs.**
-\nSome function names and prints are in Serbian. That shouldn't be a problem, as the only part that is important is the code logic itself.
+
+### Side note
+
+- Some function names and prints are in Serbian. That shouldn't be a problem, as the only part that is important is the code logic itself.
